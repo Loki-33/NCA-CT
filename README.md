@@ -5,9 +5,9 @@ An implementation of a Cellular automata to rebuild a digit(3) from the mnist da
 3. Temporal Entropy:
 4. RECOVERY:
 
+## RECONSTRUCTION VIDEO:
 
-![nca_growth_gif](nca_growth.gif)
-
+<img src='nca_growth.gif' width='400' height='400'>
 
 
 
