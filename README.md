@@ -6,4 +6,11 @@ An implementation of a Cellular automata to rebuild a digit(3) from the mnist da
 4. RECOVERY:
 
 
+![nca_growth_gif](nca_growth.gif)
+
+
+
+
+
+
 
