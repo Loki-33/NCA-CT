@@ -7,11 +7,7 @@ An implementation of a Cellular automata to rebuild a digit(3) from the mnist da
 
 ## RECONSTRUCTION VIDEO:
 
-
-<video width="600" controls>
-  <source src="nca_growth.gif" type="video/mp4">
-</video>
-
+![nca-growth-gif](nca_growth.gif)
 
 
 
